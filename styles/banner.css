@@ -1,6 +1,6 @@
 .banner {
-    background: var(--verde-degrade);
-    color: var(--amarelo);
+    background: var(green);
+    color: var(yellow);
     text-align: center;
     padding: 2.5em 2em;
 }
